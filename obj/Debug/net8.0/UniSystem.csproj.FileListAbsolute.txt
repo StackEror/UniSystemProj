@@ -1,0 +1,14 @@
+C:\LearnCsharp\UniSystem\bin\Debug\net8.0\UniSystem.exe
+C:\LearnCsharp\UniSystem\bin\Debug\net8.0\UniSystem.deps.json
+C:\LearnCsharp\UniSystem\bin\Debug\net8.0\UniSystem.runtimeconfig.json
+C:\LearnCsharp\UniSystem\bin\Debug\net8.0\UniSystem.dll
+C:\LearnCsharp\UniSystem\bin\Debug\net8.0\UniSystem.pdb
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\UniSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\UniSystem.AssemblyInfoInputs.cache
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\UniSystem.AssemblyInfo.cs
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\UniSystem.csproj.CoreCompileInputs.cache
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\UniSystem.dll
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\refint\UniSystem.dll
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\UniSystem.pdb
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\UniSystem.genruntimeconfig.cache
+C:\LearnCsharp\UniSystem\obj\Debug\net8.0\ref\UniSystem.dll
